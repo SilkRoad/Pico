@@ -12,3 +12,6 @@
 
 ![电路图][1]
 [1]:https://raw.githubusercontent.com/SilkRoad/Pico/main/PicoZeroTetris/images/Circuit%20diagram.png
+
+![登录][2]
+[2]:https://www.waveshare.net/photo/LCD/1.54inch-LCD-Module/1.54inch-LCD-Module-3.jpg
