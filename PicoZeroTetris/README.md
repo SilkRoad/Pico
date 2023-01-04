@@ -10,8 +10,8 @@
 - 将PicoGameBoy.py、st7789.py、tetris_title.bin和tetris.py四个文件复制到PicoZero的根目录
 - 按照下面的电路图连接元器件
 
-![电路图][1]
+![][1]
 [1]:https://raw.githubusercontent.com/SilkRoad/Pico/main/PicoZeroTetris/images/Circuit%20diagram.png
 
-![登录][2]
+![][2]
 [2]:https://www.waveshare.net/photo/LCD/1.54inch-LCD-Module/1.54inch-LCD-Module-3.jpg
