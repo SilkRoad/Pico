@@ -8,7 +8,7 @@
 - 杜邦线
 
 ## 使用方法
-- - 按住PicoZero控制器上的ROOT按键不放开，并将其插入到电脑USB口
+- 按住PicoZero控制器上的ROOT按键不放开，并将其插入到电脑USB口
 - 此时电脑会将PicoZero识别为存储器
 - 松开ROOT按键
 - [下载](https://micropython.org/download/rp2-pico/rp2-pico-latest.uf2)并上传固件至PicoZero
